@@ -1,35 +1,32 @@
 # Web-dev-handbook
 ******************************************************************************************
 ##  __Content__
-[1.	__How The Internet Works__](#02)<br>
-[2.	__History Of The Web__](#03)<br>
-[3.  __HTML 5__](#04)<br>
-[4.	__Advanced HTML 5__](#05)<br>
-[5.	__CSS__](#06)<br>
-[6.	__Advanced CSS__](#07)<br>
-[7.	__Bootstrap 4, Templates, And Building Your Startup Landing Page__](#08)<br>
-[8.	__CSS Grid + CSS Layout__](#09)<br>
-[9.__Javascript__](#11)<br>
-[10.__DOM Manipulation__](#12)<br>
-[11.__Advanced Javascript__](#13)<br>
-[12.__Command Line__](#14)<br>
-[13.__Developer Environment__](#15)<br>
-[14.__Git + Github + Open Source Projects__](#16)<br>
-[15.__NPM + NPM Scripts__](#18)<br>
-[16.__A Day In The Life Of A Developer__](#17)<br>
-[17.__Career Of A Web Developer__](#10)<br>
-[18.__React.js + Redux__](#19)<br>
-[19.__HTTP/JSON/AJAX + Asynchronous Javascript__](#20)<br>
-[20.__Backend Basics__](#21)<br>
-[21.__APIs__](#22)<br>
-[22.__PROJECT: SmartBrain Front-End__](#23)<br>
-[23.__Node.js + Express.js__](#24)<br>
-[24.__PROJECT: SmartBrain Back-End -- Server__](#25)<br>
-[25.__Databases__](#26)<br>
-[26.__PROJECT: SmartBrain Back-End – Database__](#27)<br>
-[27.__Production + Deployment__](#28)<br>
+[1.__How The Internet Works__](#01)<br>
+[2.__History Of The Web__](#02)<br>
+[3.__HTML 5__](#03)<br>
+[4.__Advanced HTML 5__](#04)<br>
+[5.__CSS__](#05)<br>
+[6.__Advanced CSS__](#06)<br>
+[7.__Bootstrap 4, Templates, And Building Your Startup Landing Page__](#07)<br>
+[8.__CSS Grid + CSS Layout__](#08)<br>
+[9.__Javascript__](#09)<br>
+[10.__DOM Manipulation__](#10)<br>
+[11.__Advanced Javascript__](#11)<br>
+[12.__Command Line__](#12)<br>
+[13.__Developer Environment__](#13)<br>
+[14.__Git + Github + Open Source Projects__](#46)<br>
+[15.__NPM + NPM Scripts__](#15)<br>
+[16.__React.js + Redux__](#16)<br>
+[17.__HTTP/JSON/AJAX + Asynchronous Javascript__](#17)<br>
+
 ******************************************************************************************
-## <a name ="02"></a>2.	__How The Internet Works__
+[18.__Backend Basics__](#18)<br>
+[19.__APIs__](#19)<br>
+[20.__Node.js + Express.js__](#20)<br>
+[21.__Databases__](#21)<br>
+[22.__Production + Deployment__](#22)<br>
+******************************************************************************************
+## <a name ="01"></a>1.	__How The Internet Works__
 
 Tools:
 *	Chrome Developer Tools
@@ -41,7 +38,7 @@ Topics:
 Submarine Cable Map:
 *	https://www.submarinecablemap.com/
 ******************************************************************************************
-## <a name ="03"></a>3.	__History Of The Web__
+## <a name ="02"></a>2.	__History Of The Web__
 
 Maps that explain the Internet:
 *	https://www.vox.com/a/internet-maps
@@ -55,7 +52,7 @@ Optional Videos:
 *	https://www.youtube.com/watch?v=guvsH5OFizE&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=31
 
 ******************************************************************************************
-## <a name ="04"></a>4. __HTML 5__
+## <a name ="03"></a>3. __HTML 5__
 
 Install a text editor:
 *	https://code.visualstudio.com/
@@ -82,7 +79,7 @@ Reference websites:
 *	https://stackoverflow.com/
 
 ******************************************************************************************
-## <a name ="05"></a>5.	__Advanced HTML 5__
+## <a name ="45"></a>4.	__Advanced HTML 5__
 
 Tags:
 *	`<form>`
@@ -109,7 +106,7 @@ Resources:
 *	https://waitbutwhy.com/
 
 ******************************************************************************************
-## <a name ="06"></a>6.	__CSS__
+## <a name ="05"></a>5.	__CSS__
 
 Syntax:
 ```css
@@ -135,7 +132,6 @@ How to:
 	```html
 	<header style="background-color: green;">
 	```
-
 Tools:
 *	Chrome Inspector
 
@@ -207,7 +203,7 @@ Website for fonts download:
 *	https://fonts.google.com/
 
 ******************************************************************************************
-## <a name ="07"></a>7.	__Advanced CSS__
+## <a name ="06"></a>6.	__Advanced CSS__
 
 Flexbox
 *	`display: flex`
@@ -241,7 +237,7 @@ Reference websites:
 *	https://darekkay.com/dev/flexbox-cheatsheet.html
 
 ******************************************************************************************
-## <a name ="08"></a>8.	__Bootstrap 4, Templates, And Building Your Startup Landing Page__
+## <a name ="07"></a>7.	__Bootstrap 4 & Templates__
 
 App for creating users list:
 *	https://mailchimp.com
@@ -263,23 +259,14 @@ Installing Github:
 *	https://desktop.github.com/
 
 ******************************************************************************************
-## <a name ="09"></a>9.	__CSS Grid + CSS Layout__
+## <a name ="08"></a>8.__CSS Grid + CSS Layout__
 
-Grid Cheat Sheet:
-*	http://grid.malven.co/
-
-Grid Garden:
-*	https://cssgridgarden.com/
-
-Free Design resources:
-*	https://interfacer.xyz/
-
+* [Grid Cheat Sheet](http://grid.malven.co/)
+* [Grid Garden](https://cssgridgarden.com/)
+* [Free Design resources](https://interfacer.xyz/)
+	
 ******************************************************************************************
-## <a name ="10"></a>10.	__Career Of A Web Developer__
-******************************************************************************************
-
-******************************************************************************************
-## <a name ="11"></a>11.	__Javascript__
+## <a name ="11"></a>9.__Javascript__
 
 Javascript types:
 1. Number
@@ -367,7 +354,7 @@ Javascript keywords:
 - yield
 
 ******************************************************************************************
-## <a name ="12"></a>12.	__DOM Manipulation__
+## <a name ="10"></a>10.__DOM Manipulation__
 
 Reference websites:
 *	https://developer.mozilla.org/en-US/docs/web/Events
@@ -377,7 +364,7 @@ Reference websites:
 *	https://babeljs.io/
 
 ******************************************************************************************
-## <a name ="13"></a>13.	__Advanced Javascript__
+## <a name ="11"></a>11.__Advanced Javascript__
 
 Variable declaration:  
 + let variableName (new in ECMAScript 6) /* its value can be altered  
@@ -446,11 +433,9 @@ Loops:
 /* for of cannot be used in objects, but for in can be used in arrays, you get the index number as a return  
   
 ******************************************************************************************
-
-## <a name ="14"></a>14. __Command Line__
+## <a name ="12"></a>12. __Command Line__
 
 FOR WINDOWS:
-
 ```cmd
 dir - list files
 cd {directory name} - change directory
@@ -467,17 +452,8 @@ cls - clear the terminal screen
 ```
 
 ******************************************************************************************
-## <a name ="15"></a>15.	__Developer Environment__
-Popular code editors:
-* [Visual Studio Code](https://code.visualstudio.com/)
-
-******************************************************************************************
-## <a name ="16"></a>16.	__Git + Github + Open Source Projects__
-
-Install Git:
-*	https://www.atlassian.com/git/tutorials/install-git#windows
-*	https://www.atlassian.com/git/tutorials/install-git
-
+## <a name ="13"></a>13.__Git + Github + Open Source Projects__
+*[Install Git-Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
 ```
 git clone “https:……”
 git status
@@ -494,28 +470,21 @@ git merge “name”
 Once you are in your forked project directory in your command prompt....
 
 1.	Type git remote -v and press Enter. You'll see the current configured remote repository for your fork.
-
 	a.	```git remote -v```
-
 	b.	```origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)```
-
 	c.	```origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)```
-
 
 2.	Type git remote add upstream, and then paste the URL you would copy from the original repository if you were to do a git clone. Press Enter. It will look like this
 	```
 	git remote add upstream https://github.com/zero-to-mastery/PROJECT_NAME.git
 	```
-
 3.	To verify the new upstream repository you've specified for your fork, type ```git remote -v``` again. You should see the URL for your fork as origin, and the URL for the original repository as upstream.
-
-
 4.	Now, you can keep your fork synced with the upstream repository with a few Git commands.
 	One simple way is to do the below command from the master of your forked repository:
 ```git pull upstream master```
 
 ******************************************************************************************
-## <a name ="18"></a>18.	__NPM + NPM Scripts__
+## <a name ="14"></a>14.__NPM + NPM Scripts__
 
 ```
 npm init
@@ -533,8 +502,7 @@ Reference websites:
 *	https://lodash.com/
 
 ******************************************************************************************
-## <a name ="19"></a>19.	__React.js + Redux__
-
+## <a name ="15"></a>15.__React.js + Redux__
 ```
 npx create-react-app <App-Name>
 cd <App-Name>
@@ -557,7 +525,6 @@ npm install react-redux
 npm install redux-logger
 npm install redux-thunk
 ```
-
 *	https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 *	https://reacttraining.com/react-router/
 *	https://ramdajs.com/
@@ -574,45 +541,21 @@ npm install redux-thunk
 *	https://facebook.github.io/immutable-js/
 
 ******************************************************************************************
-## <a name ="20"></a>20.	__HTTP/JSON/AJAX + Asynchronous Javascript__
+## <a name ="16"></a>16.__HTTP/JSON/AJAX + Asynchronous Javascript__
 ******************************************************************************************
 
 ******************************************************************************************
-## <a name ="21"></a>21.	__Backend Basics__
+## <a name ="17"></a>17.__Backend Basics__
 ******************************************************************************************
 
 ******************************************************************************************
-## <a name ="22"></a>22. __APIs__
+## <a name ="18"></a>18. __APIs__
 ******************************************************************************************
 *	https://stripe.com/docs/api
 *	https://www.twilio.com/docs/api/messaging/send-messages
 *	https://apilist.fun
 ******************************************************************************************
-## <a name ="23"></a>23.	__PROJECT: SmartBrain Front-End__
-
-Animated objects library:
-*	https://www.npmjs.com/package/react-tilt
-	```
-	npm install –save react-tilt
-	```
-Background patterns:
-*	http://lea.verou.me/css3patterns/
-
-Animated background library:
-*	https://particles.matteobruni.it/
-	```
-	npm install react-tsparticles
-	```
-Image and video recognition:
-*	https://clarifai.com/developer/guide/
-	```
-	npm install clarifai
-	```
-Icons library:
-*	https://icons8.com/icon
-
-******************************************************************************************
-## <a name ="24"></a>24.	__Node.js + Express.js__
+## <a name ="19"></a>19.__Node.js + Express.js__
 
 Install Postman:
 *	https://www.getpostman.com/apps
@@ -640,7 +583,6 @@ npm install bcrypt-nodejs
 ```
 $ npm install bcrypt
 ```
-
 ```jsx
 1.	/*
 2.	* You can copy and run the code below to play around with bcrypt
@@ -676,57 +618,7 @@ $ npm install bcrypt
 32.	  .catch(console.error)
 ```
 ******************************************************************************************
-## <a name ="25"></a>25.	__FINAL PROJECT: SmartBrain Back-End -- Server__
-
-Change localhost:
-*	https://stackoverflow.com/questions/40714583/how-to-specify-a-port-to-run-a-create-react-app-based-project
-
-If you don't want set environment variable, other option - modify scripts part of package.json from:
-
-```"start": "react-scripts start"```
-
-Linux (tested on Ubuntu 14.04/16.04) and MacOS (tested by @aswin-s on MacOS Sierra 10.12.4) to:
-
-```"start": "PORT=3006 react-scripts start"```
-
-or (maybe) more general solution by @IsaacPak to:
-
-```"start": "export PORT=3006 react-scripts start"```
-
-Windows @JacobEnsor solution to:
-
-```"start": "set PORT=3006 && react-scripts start"```
-
-Front-end and back-end connection:
-*	https://www.npmjs.com/package/cors
-	```
-	npm install cors
-	```
-
-Front-end:
-
-```Javascript
-fetch('http://localhost:3000/image', {
-	method: 'put',
-	headers: {'Content-Type': 'application/json'},
-	body: JSON.stringify({
-		id: this.state.user.id
-	})
-})
-.then(response => response.json())
-.then(count => {
-	this.setState(Object.assign(this.state.user, { entries:count}))
-})
-```
-Back-end:
-
-```Javascript
-const cors = require('cors')
-app.use(cors());
-```
-
-******************************************************************************************
-## <a name ="26"></a>26.	__Databases__
+## <a name ="26"></a>26.__Databases__
 
 Install PostgreSQL:
 
@@ -871,17 +763,6 @@ Enter to a database with a different user:
 
 	psql -h localhost -d nombre_base -U nombre_usuario
 
-
-******************************************************************************************
-## <a name ="27"></a>27.	__PROJECT: SmartBrain Back-End – Database__
-
-
-Tool for db connection with back-end:
-*	https://knexjs.org/
-*	https://knexjs.org/#Installation-node
-*	https://github.com/vitaly-t/pg-promise
-
-******************************************************************************************
 ## <a name ="28"></a>28.	__Production + Deployment__
 
 Environmental variables:
@@ -974,4 +855,85 @@ heroku addons
 heroku info
 heroku pg:psql
 ```
+******************************************************************************************
+
+
+******************************************************************************************
+## <a name ="20"></a>20.__PROJECT: SmartBrain Front-End__
+
+Animated objects library:
+*	https://www.npmjs.com/package/react-tilt
+	```
+	npm install –save react-tilt
+	```
+Background patterns:
+*	http://lea.verou.me/css3patterns/
+
+Animated background library:
+*	https://particles.matteobruni.it/
+	```
+	npm install react-tsparticles
+	```
+Image and video recognition:
+*	https://clarifai.com/developer/guide/
+	```
+	npm install clarifai
+	```
+Icons library:
+*	https://icons8.com/icon
+## <a name ="25"></a>25.__PROJECT: SmartBrain Back-End -- Server__
+
+Change localhost:
+*	https://stackoverflow.com/questions/40714583/how-to-specify-a-port-to-run-a-create-react-app-based-project
+
+If you don't want set environment variable, other option - modify scripts part of package.json from:
+
+```"start": "react-scripts start"```
+
+Linux (tested on Ubuntu 14.04/16.04) and MacOS (tested by @aswin-s on MacOS Sierra 10.12.4) to:
+
+```"start": "PORT=3006 react-scripts start"```
+
+or (maybe) more general solution by @IsaacPak to:
+
+```"start": "export PORT=3006 react-scripts start"```
+
+Windows @JacobEnsor solution to:
+
+```"start": "set PORT=3006 && react-scripts start"```
+
+Front-end and back-end connection:
+*	https://www.npmjs.com/package/cors
+	```
+	npm install cors
+	```
+Front-end:
+
+```Javascript
+fetch('http://localhost:3000/image', {
+	method: 'put',
+	headers: {'Content-Type': 'application/json'},
+	body: JSON.stringify({
+		id: this.state.user.id
+	})
+})
+.then(response => response.json())
+.then(count => {
+	this.setState(Object.assign(this.state.user, { entries:count}))
+})
+```
+Back-end:
+
+```Javascript
+const cors = require('cors')
+app.use(cors());
+```
+
+## <a name ="27"></a>27.__PROJECT: SmartBrain Back-End – Database__
+
+Tool for db connection with back-end:
+*	https://knexjs.org/
+*	https://knexjs.org/#Installation-node
+*	https://github.com/vitaly-t/pg-promise
+
 ******************************************************************************************
